@@ -1,7 +1,5 @@
 # shortcut to this dotfiles path is $ZSH
 export ZSH=$HOME/Dropbox/dotfiles
-export SSL_CERT_FILE=/System/Library/OpenSSL/cert.pem
-export DIGITAL_OCEAN_ACCESS_TOKEN="d34a4ad256436c55c382543dcd94b9aa6fc52f51173c67c69d0f2a7c6653b110"
 # your project folder that we can `c [tab]` to
 export PROJECTS=~/Code
 
